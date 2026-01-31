@@ -1,2 +1,2 @@
 # my-alien-dog
-my partner is Kian.
+my partner is Kian
